@@ -1,2 +1,2 @@
 # Coral-Chamber-Engi-200
-Coral Chamber Project Code and Tutorial
+Coral Chamber Project Code, CAD files, manufacturing guids, and Tutorial
